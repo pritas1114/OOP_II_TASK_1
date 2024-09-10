@@ -1,5 +1,11 @@
 #Lab: 03 Task: 01
 
+"""Lab_3 Task_1
+Use Colab.
+Original file is located at
+    https://colab.research.google.com/drive/1zh9oQrUUrYgOnfI3E02k_YGXuTdh_Lf2
+"""
+
 a = (1,3,5,7,4)
 
 print(len(a))
